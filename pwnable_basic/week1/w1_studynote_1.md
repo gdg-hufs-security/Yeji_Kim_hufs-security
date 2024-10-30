@@ -1,3 +1,5 @@
+원본 노션 링크: https://pushfurther.notion.site/Week-1-1-12f448b8698880168824c1d3b30c0bb3
+
 ### Objectives
 
 - VM 개발 환경 구축
