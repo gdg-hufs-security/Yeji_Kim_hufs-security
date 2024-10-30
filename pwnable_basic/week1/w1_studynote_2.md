@@ -1,3 +1,5 @@
+원본 노션 링크: https://pushfurther.notion.site/Week1-2-12f448b86988806c9f23ebaa5a97f7e1?pvs=4
+
 ### Objectives
 
 - 세그먼트란
